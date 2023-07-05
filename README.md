@@ -69,3 +69,8 @@ The following topics are published:
 
 Although the topics with the word Depth in the name are published by defalut ros node,
 these cameras do not capture any depth data.
+
+
+
+# Reference
+1. https://github.com/lihuang3/ur3_ROS-hardware/tree/master
